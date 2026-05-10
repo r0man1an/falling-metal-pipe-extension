@@ -1,0 +1,7 @@
+{
+  "name": "Falling Metal Pipe",
+  "description": "Plays the sound of a falling metal pipe with a chance of 1/25 when an app is opened",
+  "uuid": "falling-metal-pipe@fcnst",
+  "version": 1,
+  "shell-version": ["47", 48, "49", "50"]
+}
